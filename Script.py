@@ -191,11 +191,10 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
 <b>
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @Crunchyroll_Dub_in_Hindi
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @AnimeToon_india_Group
+🎬 ᴄʜᴀɴɴᴇʟ : @Crunchyroll_Dub_in_Hindi
+🚸 ɢʀᴏᴜᴘ : @AnimeToon_india_Group
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
