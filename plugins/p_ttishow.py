@@ -39,7 +39,7 @@ async def save_group(bot, message):
             return
         buttons = [[
                     InlineKeyboardButton('💡 sᴜᴘᴘᴏʀᴛ', url=GRP_LNK),
-                    InlineKeyboardButton('✇ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                    InlineKeyboardButton('✇ ᴄʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                  ],[
                     InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="t.me/elite_craft_official")
                   ]]
@@ -62,7 +62,7 @@ async def save_group(bot, message):
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
                                                                            InlineKeyboardButton('💡 sᴜᴘᴘᴏʀᴛ', url=GRP_LNK),
-                                                                           InlineKeyboardButton('✇ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                                                                           InlineKeyboardButton('✇ ᴄʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                                                                         ],[
                                                                            InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="t.me/elite_craft_official")
                                                                          ]]
