@@ -191,10 +191,9 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-<b>=========== • ✠ • ===========
-🎬 ᴄʜᴀɴɴᴇʟ : @Crunchyroll_Dub_in_Hindi
-🚸 ɢʀᴏᴜᴘ : @AnimeToon_india_Group
-=========== • ✠ • ===========</b>"""
+<b>▱▰▱▰▱▰▱▰▱▰▱▰▱▰
+
+If You Want To See More Animated Series & Movies Request Your Series Name - Message here (https://t.me/Hindi_dub_animee).</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
