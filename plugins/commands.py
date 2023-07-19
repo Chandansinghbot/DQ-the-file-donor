@@ -30,7 +30,7 @@ async def start(client, message):
                     InlineKeyboardButton('💠 Hᴇʟᴘ 💠', callback_data='help'),
                     InlineKeyboardButton('☠ ᴀʙᴏᴜᴛ ☠', callback_data='about')
                 ],[
-                    InlineKeyboardButton('✇ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                    InlineKeyboardButton('🍁 ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -58,7 +58,7 @@ async def start(client, message):
                     InlineKeyboardButton('💠 Hᴇʟᴘ 💠', callback_data='help'),
                     InlineKeyboardButton('☠ ᴀʙᴏᴜᴛ ☠', callback_data='about')
                 ],[
-                    InlineKeyboardButton('✇ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                    InlineKeyboardButton('🍁 ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -77,7 +77,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "❆ Jᴏɪɴ Oᴜʀ Bᴀᴄᴋ-Uᴘ Cʜᴀɴɴᴇʟ ❆", url=invite_link.invite_link
+                    "🍁 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🍁", url=invite_link.invite_link
                 )
             ]
         ]
@@ -106,7 +106,7 @@ async def start(client, message):
                     InlineKeyboardButton('💠 Hᴇʟᴘ 💠', callback_data='help'),
                     InlineKeyboardButton('☠ ᴀʙᴏᴜᴛ ☠', callback_data='about')
                 ],[
-                    InlineKeyboardButton('✇ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                    InlineKeyboardButton('🍁 ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -158,7 +158,7 @@ async def start(client, message):
                         [
                          [
                           InlineKeyboardButton('💡 sᴜᴘᴘᴏʀᴛ', url=GRP_LNK),
-                          InlineKeyboardButton('✇ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                          InlineKeyboardButton('🍁 ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
                           InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="t.me/elite_craft_official")
                          ]
@@ -177,7 +177,7 @@ async def start(client, message):
                         [
                          [
                           InlineKeyboardButton('💡 sᴜᴘᴘᴏʀᴛ', url=GRP_LNK),
-                          InlineKeyboardButton('✇ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                          InlineKeyboardButton('🍁 ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
                           InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="t.me/elite_craft_official")
                          ]
@@ -296,7 +296,7 @@ async def start(client, message):
                     [
                      [
                       InlineKeyboardButton('💡 sᴜᴘᴘᴏʀᴛ', url=GRP_LNK),
-                      InlineKeyboardButton('✇ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                      InlineKeyboardButton('🍁 ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
                    ],[
                       InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="t.me/elite_craft_official")
                      ]
@@ -350,7 +350,7 @@ async def start(client, message):
             [
              [
               InlineKeyboardButton('💡 sᴜᴘᴘᴏʀᴛ', url=GRP_LNK),
-              InlineKeyboardButton('✇ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+              InlineKeyboardButton('🍁 ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
            ],[
               InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="t.me/elite_craft_official")
              ]
