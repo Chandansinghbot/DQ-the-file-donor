@@ -192,8 +192,8 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 <b>▱▰▱▰▱▰▱▰▱▰▱▰▱▰
-
-If You Want To See More Animated Series & Movies Request Your Series Name - Message here (https://t.me/Hindi_dub_animee).</b>"""
+If You Want To See More Animated Series & Movies Then Request Your Series Name.👇
+-<a href='https://t.me/Hindi_dub_animee'>📝 Request here.</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
