@@ -190,10 +190,9 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-<b>▱▰▱▰▱▰▱▰▱▰▱▰▱▰
-If You Want To See More Animated Series & Movies Then Request Your Series Name.👇
--<a href='https://t.me/Hindi_dub_animee'>📝 Request here.</a></b>"""
+<b>🔖 Fɪʟᴇ ɴᴀᴍᴇ : </b>{file_name}
+
+<b>⚙️ File Size: </b >{file_size}"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
@@ -202,7 +201,9 @@ IMDb Data:
 🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
+🌟 Rating: <a href={url}/ratings>{rating}</a> / 10
+
+🔖Story : {plot}</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
